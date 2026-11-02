@@ -1,0 +1,11 @@
+{
+  "name": "new-york-llc-publication",
+  "version": "1.0.0",
+  "description": "New York LLC publication rules, county clerk details, notice text and LLC Publishers' price for all 62 counties.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "new-york-llc-publication": {
+      "httpUrl": "https://mcp.llcpublishers.com/v2"
+    }
+  }
+}
