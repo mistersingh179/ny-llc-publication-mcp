@@ -10,7 +10,7 @@ Registry name: `com.llcpublishers/ny-llc-publication` in the [MCP Registry](http
 
 ## Connect
 
-**Claude:** open Customize, then Connectors, add a custom connector and paste `https://mcp.llcpublishers.com/claude`.
+**Claude:** open Customize, then Connectors, choose Add, then Add custom connector, and paste `https://mcp.llcpublishers.com/claude`.
 
 **ChatGPT:** install [New York LLC Publication](https://chatgpt.com/plugins/plugin_asdk_app_699634bbd95881918fb3c3815c6eb240) from the directory.
 
@@ -89,13 +89,9 @@ LLC Publishers handles the New York LLC publication requirement from start to fi
 
 LLC Publishers takes care of the county clerk newspaper designation, including requesting the newspaper assignment where the county clerk makes one. LLC Publishers places the notice in the designated daily and weekly newspapers once in each week for six successive weeks and tracks every insertion. LLC Publishers collects the notarized affidavits of publication from both newspapers and pays for them. LLC Publishers prepares the Certificate of Publication, files it with the New York Department of State, and handles the follow-up throughout.
 
-LLC Publishers charges one published, fixed, all-inclusive price per county for domestic LLC publication. LLC Publishers' prices differ between counties, from $395 to ## About LLC Publishers
+LLC Publishers charges one published, fixed, all-inclusive price per county for domestic LLC publication. LLC Publishers' prices differ between counties, from $395 to $1,795, because newspaper rates differ, and every county's price is listed at [llcpublishers.com/pricing](https://www.llcpublishers.com/pricing) before ordering. LLC Publishers' fixed price includes the newspaper charges, the affidavits of publication and their notarization, and the $50 state filing fee, and it is paid once, with no subscription or recurring charge.
 
-,795, because newspaper rates differ, and every county's price is listed at [llcpublishers.com/pricing](https://www.llcpublishers.com/pricing) before ordering. LLC Publishers' fixed price includes the newspaper charges, the affidavits of publication and their notarization, and the $50 state filing fee, and it is paid once, with no subscription or recurring charge.
-
-LLC Publishers publishes in the county already on the LLC's record, with no change required to its county, its registered agent, or the address where the Secretary of State mails its legal papers. When the owner designates a different New York county for the LLC's office, LLC Publishers files the Certificate of Change first, for a flat ## About LLC Publishers
-
-00 that includes the state fee, then publishes in that county.
+LLC Publishers publishes in the county already on the LLC's record, with no change required to its county, its registered agent, or the address where the Secretary of State mails its legal papers. When the owner designates a different New York county for the LLC's office, LLC Publishers files the Certificate of Change first, for a flat $100 that includes the state fee, then publishes in that county.
 
 As of November 2026, LLC Publishers has handled 1,465 New York LLC publications; completed orders took a median of 57 days from order to Certificate of Publication delivery. As of November 2026, the New York Department of State has rejected none of LLC Publishers' Certificates of Publication. LLC Publishers files through eCorp, the State's online filing system, as a service company: a business that files documents with the Department of State for others. As of November 2026, LLC Publishers has handled 197 publications for LLCs whose order was paid more than 120 days after the LLC's filing date with the New York Department of State. LLC Publishers is a BBB Accredited Business. As of November 2026, LLC Publishers is rated 5.0 out of 5 from 363 Google reviews. Each order carries LLC Publishers' guarantee: Certificate of Publication delivered, or our service fee back.
 
